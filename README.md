@@ -1,1 +1,1 @@
-# lab-html-css-js
+# Core-Html-Assignment
